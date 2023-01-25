@@ -9,7 +9,7 @@
 
 ### 💻 About Me : 
 I am a undergraduate at Lipscomb University looking for an intership.
-- This repository contains a collection of porgrams I have written for classes, competitions, and hobby projects.
+- This repository contains a collection of programs I have written for classes, competitions, and hobby projects.
 - I enjoy learning new programing languages and concepts.
 
 ---
