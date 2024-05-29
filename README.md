@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif" width="100"/>
+  <img src="[https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif](https://safebooru.org//images/4174/ad676df04a8b62efc28d59507197efa4.gif?4360178)" width="100"/>
 </div>
 <div id = "header" align="center">
-  👋 Hi, I’m Aldo Vera-Espinoza
+  👋 I’m Aldo Vera-Espinoza
 </div>
 
 ---
